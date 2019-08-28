@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @category    Rossmc
  * @package     Rossmc_Rsqs
